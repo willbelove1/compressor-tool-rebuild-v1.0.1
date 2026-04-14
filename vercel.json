@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/compress",
+      "destination": "/api/compress.js"
+    }
+  ]
+}
